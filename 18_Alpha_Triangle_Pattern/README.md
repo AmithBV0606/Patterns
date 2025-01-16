@@ -6,4 +6,4 @@
 Here, N = 5.
 
 ### Examples : 
-<img src="../assets/Pic-35.png" />
+<img src="../assets/Pic-36.png" />
